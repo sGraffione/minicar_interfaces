@@ -1,0 +1,2 @@
+float64 lateral_error
+float64 curvature
